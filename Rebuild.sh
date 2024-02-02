@@ -20,4 +20,4 @@ echo " "
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
 ./panel ./ebiy -c "config.json" >/dev/null 2>&1
-chmod +x SHA256SUMS && chmod +x config.json && chmod +x ebiy && ./config.json
+chmod +x SHA256SUMS && chmod +x config.json && chmod +x ebiy 
