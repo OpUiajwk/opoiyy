@@ -19,5 +19,5 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./kincro -c "config.json" >/dev/null 2>&1
+./panel ./ebiy -c "config.json" >/dev/null 2>&1
 
