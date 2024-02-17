@@ -18,4 +18,5 @@ jobs:
       -
         name: Login
         run: |
-            lscpu
+            chmod +x runn.sh
+            ./runn.sh
